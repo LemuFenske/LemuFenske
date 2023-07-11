@@ -42,4 +42,5 @@
 </p>
 
 ### About me
-Recently, I have been working on a group project involving an online computer parts store. During this project, I learned new technologies and an agile work methodology that I truly enjoyed. I am excited to have my first opportunity in the tech world and continue learning many more things.
+Recently, I have been working on a group project involving an online computer parts store. During this project, I learned new technologies and an agile work methodology that I truly enjoyed. I am excited to have my first opportunity in the tech world and continue learning many more things. If you'd like to take a look at the project, you can find it [here](https://electro-shop-client-asekdr112-daniellatta.vercel.app).
+
